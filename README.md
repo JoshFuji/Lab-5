@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 - [x] **The app dashboard includes at least three summary statistics about the data** 
   - The app dashboard includes at least three summary statistics about the data, such as:
     - *total # of cities, average temp, hotttest city*
-- x ] **A search bar allows the user to search for an item in the fetched data**
+- [x] **A search bar allows the user to search for an item in the fetched data**
   - The search bar **correctly** filters items in the list, only displaying items matching the search query
   - The list of results dynamically updates as the user types into the search bar
 - [x] **An additional filter allows the user to restrict displayed items by specified categories**
@@ -41,7 +41,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 https://imgur.com/a/CQG2Z37
 
 <!-- Replace this with whatever GIF tool you used! -->
